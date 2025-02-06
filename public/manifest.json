@@ -1,0 +1,165 @@
+{
+    "bundles": [
+        {
+            "name": "symbols",
+            "assets": [
+                {
+                    "alias": "9",
+                    "src": "/public/assets/9.png"
+                },
+                {
+                    "alias": "10",
+                    "src": "/public/assets/10.png"
+                },
+               
+                {
+                    "alias": "A",
+                    "src": "/public/assets/A.png"
+                },
+               
+                {
+                    "alias": "bonus",
+                    "src": "/public/assets/BONUS.png"
+                },
+                {
+                    "alias": "h1",
+                    "src": "/public/assets/H1.png"
+                },
+                {
+                    "alias": "h2",
+                    "src": "/public/assets/H2.png"
+                },
+               
+                {
+                    "alias": "h3",
+                    "src": "/public/assets/H3.png"
+                },
+                {
+                    "alias": "h4",
+                    "src": "/public/assets/H4.png"
+                },
+                
+                {
+                    "alias": "h5",
+                    "src": "/public/assets/H5.png"
+                },
+                {
+                    "alias": "h6",
+                    "src": "/public/assets/H6.png"
+                },
+               
+                {
+                    "alias": "j",
+                    "src": "/public/assets/J.png"
+                },
+              
+                {
+                    "alias": "k",
+                    "src": "/public/assets/K.png"
+                },
+            
+                {
+                    "alias": "m1",
+                    "src": "/public/assets/M1.png"
+                },
+                {
+                    "alias": "m2",
+                    "src": "/public/assets/M2.png"
+                },
+                {
+                    "alias": "m3",
+                    "src": "/public/assets/M3.png"
+                },
+               
+                {
+                    "alias": "m4",
+                    "src": "/public/assets/M4.png"
+                },
+               
+                {
+                    "alias": "m5",
+                    "src": "/public/assets/M5.png"
+                },
+               
+                {
+                    "alias": "m6",
+                    "src": "/public/assets/M6.png"
+                }
+              
+            ]
+        },
+        {
+            "name": "connect",
+            "assets": [
+                {
+                    "alias": "9_connect",
+                    "src": "/public/assets/9_connect.png"
+                },
+                {
+                    "alias": "10_connect",
+                    "src": "/public/assets/10_connect.png"
+                },
+                {
+                    "alias": "m6_connect",
+                    "src": "/public/assets/M6_connect.png"
+                },
+                {
+                    "alias": "m5_connect",
+                    "src": "/public/assets/M5_connect.png"
+                },
+                {
+                    "alias": "m4_connect",
+                    "src": "/public/assets/M4_connect.png"
+                },
+                {
+                    "alias": "m3_connect",
+                    "src": "/public/assets/M3_connect.png"
+                },
+                {
+                    "alias": "m1_connect",
+                    "src": "/public/assets/M1_connect.png"
+                },
+                {
+                    "alias": "m2_connect",
+                    "src": "/public/assets/M2_connect.png"
+                },
+                {
+                    "alias": "k_connect",
+                    "src": "/public/assets/k_connect.png"
+                },
+                {
+                    "alias": "A_connect",
+                    "src": "/public/assets/A_connect.png"
+                },
+                {
+                    "alias": "h1_connect",
+                    "src": "/public/assets/H1_connect.png"
+                },
+                {
+                    "alias": "h2_connect",
+                    "src": "/public/assets/H2_connect.png"
+                },
+                {
+                    "alias": "h3_connect",
+                    "src": "/public/assets/H3_connect.png"
+                },
+                {
+                    "alias": "h4_connect",
+                    "src": "/public/assets/H4_connect.png"
+                },
+                {
+                    "alias": "h5_connect",
+                    "src": "/public/assets/H5_connect.png"
+                },
+                {
+                    "alias": "h6_connect",
+                    "src": "/public/assets/H6_connect.png"
+                },
+                {
+                    "alias": "j_connect",
+                    "src": "/public/assets/j_connect.png"
+                }
+            ]
+        }
+    ]
+}
